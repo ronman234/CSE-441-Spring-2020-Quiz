@@ -1,3 +1,0 @@
-this is a test file to see how GitHub works
-
-it works great, this edit done in the browser
