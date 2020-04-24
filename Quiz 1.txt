@@ -1,11 +1,11 @@
 Details for the first Quiz:
 
-1. Make two levels, main menu and game level
-2. Have UI to change between levels
-3. Have a player that can move, jump and shoot
-4. Have enemies and areas to that deal damage
-5. Have player deal damage, either by touching or shooting
-6. Have a pause menu to return to main menu
-7. Have a win or lose state
-8. Create a level for the player to move around in
-9. Have UI that tracks player health
+1. Make two levels, main menu and game level - DONE
+2. Have UI to change between levels - DONE
+3. Have a player that can move, jump and shoot - DONE
+4. Have enemies and areas to that deal damage - DONE
+5. Have player deal damage, either by touching or shooting - DONE
+6. Have a pause menu to return to main menu - DONE
+7. Have a win or lose state - DONE
+8. Create a level for the player to move around in - DONE
+9. Have UI that tracks player health - DONE
