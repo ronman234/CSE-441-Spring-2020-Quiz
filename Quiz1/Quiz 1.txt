@@ -9,3 +9,6 @@ Details for the first Quiz:
 7. Have a win or lose state
 8. Create a level for the player to move around in
 9. Have UI that tracks player health
+
+// Touch for damage
+// Enemy Shoots
