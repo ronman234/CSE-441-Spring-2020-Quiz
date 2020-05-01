@@ -1,0 +1,1 @@
+I had assistance from my group member Cole Dunham. He readily helped me fix lots of stuff I broke in my project and had at least a little to do with lots of aspects of my code. He also showed me how to set up things I did not know how to set up at all (such as using lerp to gradually change values like the health bar or camera zoom).
