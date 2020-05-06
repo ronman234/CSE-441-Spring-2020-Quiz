@@ -1,0 +1,3 @@
+7/10
+
+There is only the main menu scene. Make sure that eveyrhting is chekced before you package the project.
