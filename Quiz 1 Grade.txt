@@ -1,0 +1,3 @@
+10/10
+
+Well done. Try and fix the inifite jump, and when you delete a player, find a way not to destroy the camera
