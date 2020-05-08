@@ -1,0 +1,4 @@
+9/10
+
+It was gun and entertaining, but had to set up the input to be able to play. When creating packages with a different Input Manager, make sure to have a readme 
+that has the correct input and anming convention
