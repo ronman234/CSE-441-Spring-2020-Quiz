@@ -1,0 +1,4 @@
+- Added level2 with different layout of map and enemies,
+- Added new mole enemy that shoots.
+- Added Mole boss for level 1 that shoots a slower, but larger bullet. Also has an increased health pool.
+- Added Treant boss for level 2. Is faster and way bigger; increased health pool.
