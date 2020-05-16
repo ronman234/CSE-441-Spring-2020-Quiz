@@ -1,0 +1,11 @@
+Added a jump mechanic
+
+beautified the world with trees, grass and hills
+
+you can now pause, go to main menu, click the interface, and unpause
+
+you can fire bullets
+
+you can turn sideways
+
+you can basically fly by jumping
