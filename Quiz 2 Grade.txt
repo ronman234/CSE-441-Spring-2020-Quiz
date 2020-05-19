@@ -1,0 +1,3 @@
+5/10
+
+When building out a game, there will be more than just an executable. Make sure to have all those files and applications available and together to be able to play
