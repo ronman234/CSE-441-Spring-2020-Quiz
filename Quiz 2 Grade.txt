@@ -1,0 +1,4 @@
+9/10
+
+Well done. Maybe try and refine the player movement for more continous gameplay. Also Make sure there is a credit scene or UI element, 
+because I need to know where you get the sounds, especially if they are from a well known game like Kingdom Hearts
