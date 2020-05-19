@@ -1,0 +1,6 @@
+Volume Slider
+Moving/Shooting Enemies
+Larger FOV
+Move Health Slider
+Take Out Mouse Cursor
+Maybe make your bullets not damage you
